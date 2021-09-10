@@ -62,29 +62,29 @@ p{
 /* Activities-Section */
 #activities{
   padding: 3% 10% 0 8%;
-  background-color: #E3E4FA;
+/*   background-color: #E3E4FA; */
   color: #C24641;
   }
 
 .first-activities{
   text-align: center;
-  border-style: solid;
+/*   border-style: solid;
   border-width: 10px;
   border-left-width: 10px;
   border-right-width: 10px;
   border-color: #5F9EA0;
-  background-color: #E5E4E2;
+  background-color: #E5E4E2; */
       }
 
 .second-activities{
   text-align: center;
   margin: 1% 0 0 0;
-  border-style: solid;
+/*   border-style: solid;
   border-width: 10px;
   border-left-width: 10px;
   border-right-width: 10px;
   border-color: #5F9EA0;
-  background-color: #E5E4E2;
+  background-color: #E5E4E2; */
 }
 
 #connect{
